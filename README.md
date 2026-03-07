@@ -43,6 +43,5 @@ This project presents an interactive Power BI dashboard built to analyze hospita
 
 ## Dashboard Preview
 
-(## Dashboard Preview
 
 ![Hospital Dashboard](dashboard-preview.png)
